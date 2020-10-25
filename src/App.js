@@ -1,4 +1,3 @@
-import "./assets/fonts/Lifad.ttf";
 import image from "images/image.jpg";
 import csv from "csv/test.csv";
 
